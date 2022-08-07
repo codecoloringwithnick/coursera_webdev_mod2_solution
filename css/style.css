@@ -65,7 +65,7 @@ div.food {
 @media (min-width: 992px) {
   .col-lg-4 {
     float: left;
-    width: 29.33%;
+    width: 28%;
   }
 
 }
